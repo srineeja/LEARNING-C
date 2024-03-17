@@ -1,0 +1,10 @@
+// Add 21 and 40 in the code and print the result.
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    
+  cout <<  21 + 40 ; 
+
+}

@@ -1,0 +1,11 @@
+// In this problem, we want you to output "I love C++". For that, you have to edit the code present in editor. The editor has some __ (underscores). Your task is to remove underscores and write "I love C++", to solve the problem.
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+  // Replace the _ (underscores) with the correct value
+  cout << "I love C++";
+
+}
